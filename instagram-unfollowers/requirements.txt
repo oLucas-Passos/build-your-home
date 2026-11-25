@@ -1,0 +1,5 @@
+# O modo "export" funciona só com a biblioteca padrão do Python.
+# Os pacotes abaixo são opcionais:
+rich>=13          # tabela colorida no terminal
+openpyxl>=3.1     # salvar em Excel (--xlsx)
+instaloader>=4.10 # modo "login"
